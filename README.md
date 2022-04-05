@@ -8,5 +8,5 @@ QR Code Generator
 
 
 
-When you add tex or url the QR Code appears
+Add text or url the QR Code appears
 ![image](https://user-images.githubusercontent.com/72018100/161728077-8a4ce90d-d9df-4b2d-ba20-6d1056221e6a.png)
